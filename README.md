@@ -8,7 +8,7 @@ I want to provide a simple test environment for those who cant get the hardware
  	* You will need to create a Broadcom Account
   	* Plus it's Free for Personal Use
 
-  * [Unlocker for Vmware Player and Workstation Pro](https://github.com/BDisp/unlocker)
+* [Unlocker for Vmware Player and Workstation Pro](https://github.com/BDisp/unlocker)
     * This will be the **Most Important** Requirement throughout this whole ReadMe. Without it, You're bootlooping
    
   * At least 100 GB or free space
