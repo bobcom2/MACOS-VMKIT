@@ -11,8 +11,8 @@ I want to provide a simple test environment for those who cant get the hardware
 * [Unlocker for Vmware Player and Workstation Pro](https://github.com/BDisp/unlocker)
     * This will be the **Most Important** Requirement throughout this whole ReadMe. Without it, You're bootlooping
    
+	# Hardware Requirements
   * At least 100 GB or free space
-
   * RAM 
   	* Minimum: 4Gb
   	* Recommended: 8 GB or more 
