@@ -15,8 +15,17 @@ I want to provide a simple test environment for those who cant get the hardware
   * At least 100 GB or free space
   * RAM 
   	* Minimum: 4Gb
-  	* Recommended: 8 GB or more 
+  	* Recommended: 8 GB or more
+   * I do recomend an NVME or SSD Drive
+   	* During my testing i noticed the significant perfomance ddrop while runnign it on a HD 
 
 # Instructions
 
-* Determine Your OS
+1. Determine Your OS
+	* Is it Windows or Linux?
+2. Create your boadcom account if you havve already, you can skip this step
+	* Click the login button on the top right of the page
+ 	* register
+  	* insert your email (it can be personal)
+   	* follow the prompts
+   * Reopen the link again 
