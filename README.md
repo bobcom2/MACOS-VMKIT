@@ -43,7 +43,8 @@ I want to provide a simple test environment for those who cant get the hardware
 3. Install
 	* Windows, open the file and follow the prompts
  	* be sure to select run for personal use.
-4. Open Wmware Workstaiton Pro
-5. Import the Template/OVF file
+4. Install the unlocker
+5. Open Wmware Workstaiton Pro
+6. Import the Template/OVF file
 	* This will create a copy from the template provided
-6. Click Run and your set 
+7. Click Run and your set 
