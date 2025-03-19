@@ -13,7 +13,7 @@ I want to provide a simple test environment for those who cant get the hardware
     * **note** You must re-unlock after updating Workstation Pro
       
 * [VM Templates](https://drive.google.com/drive/folders/1DIvjPQzIfyzy0Mj8hEq0Kz1kItAOofXt?usp=drive_link)
-	* This will be housed on Google Drive.
+	* This will be hosted on Google Drive.
  	* This will include two Variants.
    
 	# Hardware Requirements
