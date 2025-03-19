@@ -11,7 +11,10 @@ I want to provide a simple test environment for those who cant get the hardware
 * [Unlocker for Vmware Player and Workstation Pro](https://github.com/BDisp/unlocker)
     * This will be the **Most Important** Requirement throughout this whole ReadMe. Without it, You're bootlooping
     * **note** You must re-unlock after updating Workstation Pro
+      
 * [VM Templates](https://drive.google.com/drive/folders/1DIvjPQzIfyzy0Mj8hEq0Kz1kItAOofXt?usp=drive_link)
+	* This will be housed on Google Drive.
+ 	* This will include two Variants.
    
 	# Hardware Requirements
   * At least 100 GB or free space
