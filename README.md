@@ -34,4 +34,16 @@ I want to provide a simple test environment for those who cant get the hardware
   	* insert your email (it can be personal)
    	* follow the prompts
    * Reopen the link again
-   * 
+   * select either Windows or Linux
+	* If Linux
+ 		* the file will be a .bundle, which must be run as an executable.
+ 		* Run as **sudo** or **root**, i reccomend **su**.
+   	* If Windows
+   		* the will be a standard .exe file
+3. Install
+	* Windows, open the file and follow the prompts
+ 	* be sure to select run for personal use.
+4. Open Wmware Workstaiton Pro
+5. Import the Template/OVF file
+	* This will create a copy from the template provided
+6. Click Run and your set 
